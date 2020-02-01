@@ -1,0 +1,2 @@
+class VotifierError(Exception):
+    pass

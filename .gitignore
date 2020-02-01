@@ -1,0 +1,26 @@
+*.py[cod]
+
+*.so
+
+.vscode/
+
+# Packages
+*.egg
+*.egg-info
+build
+dist
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Installer logs
+pip-log.txt
+
+# Virtualenv
+venv/
